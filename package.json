@@ -17,6 +17,8 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@eslint/config-array": "^0.18.0",
+    "@eslint/object-schema": "^2.1.4",
     "@tauri-apps/api": ">=2.0.0-rc.0",
     "@tauri-apps/plugin-shell": ">=2.0.0-rc.0",
     "bits-ui": "^0.21.13",
@@ -40,6 +42,7 @@
     "@sveltejs/vite-plugin-svelte": "^3.0.0",
     "@tailwindcss/typography": "^0.5.14",
     "@tauri-apps/cli": ">=2.0.0-rc.0",
+    "@types/node": "^22.7.4",
     "autoprefixer": "^10.4.20",
     "sass": "^1.79.0",
     "sass-embedded": "^1.78.0",

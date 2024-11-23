@@ -8,7 +8,7 @@
 <Meta title="GradeReportHomeDetail" component={GradeReportHomeDetail}/>
 
 <Template let:args>
-  <Home {...args}/>
+  <GradeReportHomeDetail {...args}/>
 </Template>
 
 <Story name="Primary" args={{

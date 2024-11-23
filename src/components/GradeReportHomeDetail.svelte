@@ -18,7 +18,7 @@
     <Card.Header class="bg-muted/50 flex flex-row items-start">
       <div class="grid gap-0.5">
         <Card.Title class="group flex items-center gap-2 text-lg">
-          {testDetails.name}
+          <!-- {testDetails.name} -->
         </Card.Title>
         <Card.Description>Date: November 23, 2023</Card.Description>
       </div>

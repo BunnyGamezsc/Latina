@@ -17,15 +17,15 @@
         <Card.Description class="max-w-lg text-balance leading-relaxed">
           Create a new Set for {languageName}
           <br>
-          {languageDetails.setDetails}
+          <!-- {languageDetails.setDetails} -->
         </Card.Description>
       </Card.Header>
       <Card.Footer>
         <div class="flex gap-1">
           <Button>Create New Set</Button>
-          {#if languageDetails.onlyVocab == false}
+          <!-- {#if languageDetails.onlyVocab == false}
           <Button>Study {languageName}</Button>
-          {/if}
+          {/if} -->
         </div>
       </Card.Footer>
     </Card.Root>
